@@ -1,4 +1,3 @@
-from http import client
 import socket
 
 server_ip = '127.0.0.1'
